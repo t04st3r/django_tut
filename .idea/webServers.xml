@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96e11fb6-e2bf-45b2-b7bd-85111985e864" name="bubuntu-django" url="http://bubuntu">
+        <fileTransfer host="bubuntu" port="22" rootFolder="/home/raffaele" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
